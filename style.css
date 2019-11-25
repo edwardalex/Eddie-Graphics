@@ -1,0 +1,46 @@
+body{
+background-color: white;
+}
+
+#page{
+padding: 20px;
+text-align: center;
+margin-top: 30px;
+margin-left: 10px;
+}
+
+#page a{
+text-decoration: none;
+font-size: 17px;
+padding:0px 10px;
+margin-left: 20px;
+color: black;
+}
+
+#page a:hover{
+background-color: black;
+color: white;
+}
+
+#info{
+text-align: center;
+margin-left: 100px;
+padding: 0px 100px;
+}
+
+#mainpic{
+padding: 0px 400px;
+}
+
+#mainpic .mainpic{
+
+
+}
+
+
+
+
+
+    
+    
+
