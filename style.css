@@ -1,5 +1,9 @@
 body{
 background-color: white;
+text-align: left;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 13px;
+color:black;
 }
 
 #page{
@@ -32,15 +36,7 @@ padding: 0px 100px;
 padding: 0px 400px;
 }
 
-#mainpic .mainpic{
-
-
+#contact{
+color: blue;
 }
-
-
-
-
-
-    
-    
 
